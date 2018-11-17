@@ -53,3 +53,7 @@ I have assumed here that contacts collection will contain duplicate data.
 ### Notes
 
 Please create .env file and assign the url of mongodb to the MONGODB_URI variable.
+
+## By
+
+### Mayank Yadav

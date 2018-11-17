@@ -13,3 +13,7 @@ Used Koa framework for the node.js server
 
 - get - /:number
   returns the all prime numbers as per the question.
+
+## By
+
+### Mayank Yadav
