@@ -14,7 +14,7 @@
 
 ## Solution
 
-I have used the Koa framwork to create the node.js server. Mongoose to connect with the mongodb database. Data is stored on the local data base.
+I have used the Koa framework to create the node.js server. Mongoose to connect with the mongodb database. Data is stored on the local data base.
 
 ### API Endpoints-
 
